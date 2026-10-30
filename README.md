@@ -288,4 +288,4 @@ adb install -r dist/CialloSkipper-1.6.0-debug.apk
 - `AppPreferences`：DataStore 原子写入、每日计数重置、JSON 日志、逐条本地规则（ViewId/文本/坐标、Activity）编解码、一次性旧规则清理与紧急清空。
 - `AppRepository`：Launcher 查询 + 已安装包双通道合并、预装升级应用识别。
 - `RuleRepository`：assets 规则容错解析（数组与对象两种格式）。
-- UI：单 Activity、Compose Material 3、三页底部导航、名单二级 Tab、StateFlow 驱动。
+- UI：单 Activity、Compose Material 3、四页底部导航（主页 / 名单 / 日志 / 关于）、名单二级 Tab、StateFlow 驱动。
