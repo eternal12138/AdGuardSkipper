@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ciallo～(∠・ω&lt; )⌒☆跳广</string>
+    <string name="app_name_short">Ciallo～跳广</string>
+    <string name="brand_tagline">广告秒跳过 · ADS SKIPPER</string>
+    <string name="brand_tagline_short">广告秒跳过 · ADS SKIPPER</string>
+    <string name="splash_loading_text">Ciallo～ 正在准备跳广…</string>
+    <string name="splash_skip_chip">SKIP &gt;</string>
+    <string name="splash_badge">ADS SKIPPER</string>
+
+    <string name="accessibility_service_label">Ciallo～(∠・ω&lt; )⌒☆跳广 · 开屏跳过</string>
+    <string name="accessibility_service_summary">识别开屏广告并模拟点击跳过，同时拦截异常强制跳转。</string>
+    <string name="accessibility_service_description">开启后，Ciallo～跳广 仅在从桌面进入新应用的前 4 秒内读取开屏界面，严格匹配“跳过”文本或广告 SDK 跳过控件；日常使用期只执行你在悬浮球中亲手保存的规则。所有识别均在本机完成，不会上传任何界面内容。</string>
+
+    <string name="notification_channel_name">强跳拦截通知</string>
+    <string name="notification_channel_description">显示开屏期间被拦截的强制跳转次数，点击可查看日志。</string>
+    <string name="notification_title">Ciallo～跳广 已拦截强制跳转</string>
+    <string name="notification_text">今日已拦截 %1$d 次 · %2$s → %3$s</string>
+
+    <string name="keep_alive_channel_name">常驻守护服务</string>
+    <string name="keep_alive_channel_description">保持无障碍守护服务运行，并显示今日强跳拦截次数。</string>
+    <string name="keep_alive_title">Ciallo～跳广 守护中</string>
+    <string name="keep_alive_text">正在守护开屏净土 | 今日已拦截 %1$d 次</string>
+    <string name="keep_alive_enable_listener">开启双服务保活</string>
+    <string name="notification_listener_label">Ciallo～跳广 通知守护</string>
+</resources>
