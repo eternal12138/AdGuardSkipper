@@ -10,7 +10,7 @@
 [![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![UI](https://img.shields.io/badge/UI-Jetpack%20Compose%20(M3)-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-success)](#️-隐私与安全承诺-privacy--security)
-[![Release](https://img.shields.io/badge/Release-v1.0.0-orange)](../../releases)
+[![Release](https://img.shields.io/badge/Release-v1.6.0-orange)](../../releases)
 
 <!-- 如果你把生成的封面图放在了项目根目录并命名为 cover.jpg，取消下方注释即可直接在主页居中展示封面 -->
 <img src="cover.jpg" width="320" alt="Ciallo～(∠・ω< )⌒☆跳广 Cover" style="border-radius: 16px;" /> 
