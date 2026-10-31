@@ -13,7 +13,7 @@
 [![Release](https://img.shields.io/badge/Release-v1.0.0-orange)](../../releases)
 
 <!-- 如果你把生成的封面图放在了项目根目录并命名为 cover.jpg，取消下方注释即可直接在主页居中展示封面 -->
-<!-- <img src="cover.jpg" width="320" alt="Ciallo～(∠・ω< )⌒☆跳广 Cover" style="border-radius: 16px;" /> -->
+<img src="cover.jpg" width="320" alt="Ciallo～(∠・ω< )⌒☆跳广 Cover" style="border-radius: 16px;" /> 
 
 </div>
 
